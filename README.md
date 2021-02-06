@@ -1,5 +1,5 @@
 # Todo_app
-A little todo app built with vanilla javascript. I was bored so decided to create
+A little todo app built with vanilla javascript. I was bored so decided to create something
 
 [Click here to view project](https://thatjsprof.github.io/Todo_app/)
 
